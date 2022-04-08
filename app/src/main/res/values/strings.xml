@@ -11,4 +11,5 @@
     <string name="edit">Edit</string>
     <string name="delete">Delete</string>
     <string name="delete_all">Delete all</string>
+    <string name="example">example</string>
 </resources>
