@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SQLiteDB</string>
+    <string name="profile_image">Profile Image</string>
+    <string name="data">Data</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail Id</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="floating_button">Floating Button</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="delete_all">Delete all</string>
+</resources>
